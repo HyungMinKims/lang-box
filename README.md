@@ -1,7 +1,7 @@
 <p align="center">
   <img width="400" src="./example.png">
   <h3 align="center">lang-box</h3>
-  <p align="center">💻 Update a pinned gist to contain languages of your recent commits in GitHub</p>
+  <p align="center">💻 Update a pinned gist to contain languages of your recent commits in GitHub1</p>
 </p>
 
 ---
