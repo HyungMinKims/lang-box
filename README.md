@@ -9,7 +9,7 @@
 > This project is inspired by [waka-box](https://github.com/matchai/waka-box), [productive-box](https://github.com/maxam2017/productive-box) and [metrics](https://github.com/lowlighter/metrics).<br/>
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
 
-This project gets your recent commits from your activities fetched from GitHub API, and process them with [linguist](https://github.com/github/linguist) to show the percentage of each languages used. This project also calculate how many lines of codes were added/removed per language.
+This project gets your recent commits from your activities fetched from GitHub API, and process them with [linguist](https://github.com/github/linguist) to show the percentage of each languages used. This project also calculate how many lines of codes were added/removed per language.1
 
 ## Setup
 
